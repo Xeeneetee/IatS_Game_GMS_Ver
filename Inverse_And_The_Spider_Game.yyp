@@ -9,7 +9,11 @@
     "name":"Default",
   },
   "defaultScriptType":0,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -19,12 +23,15 @@
   },
   "name":"Inverse_And_The_Spider_Game",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_player_1","path":"objects/obj_player_1/obj_player_1.yy",},},
+    {"id":{"name":"test_room_1","path":"rooms/test_room_1/test_room_1.yy",},},
+    {"id":{"name":"test_sprite_1","path":"sprites/test_sprite_1/test_sprite_1.yy",},},
+    {"id":{"name":"test_sprite_2","path":"sprites/test_sprite_2/test_sprite_2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"test_room_1","path":"rooms/test_room_1/test_room_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
