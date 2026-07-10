@@ -1,10 +1,16 @@
 {
   "FolderOrderSettings":[
-    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":5,"path":"folders/Tile Sets.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_test_player_2","order":1,"path":"objects/obj_test_player_2/obj_test_player_2.yy",},
+    {"name":"obj_test_wall","order":2,"path":"objects/obj_test_wall/obj_test_wall.yy",},
     {"name":"test_sprite_1","order":1,"path":"sprites/test_sprite_1/test_sprite_1.yy",},
+    {"name":"test_sprite_wall","order":2,"path":"sprites/test_sprite_wall/test_sprite_wall.yy",},
   ],
 }
