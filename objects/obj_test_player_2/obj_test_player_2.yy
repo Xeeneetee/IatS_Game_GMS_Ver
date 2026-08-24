@@ -12,7 +12,10 @@
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_test_player_1",
+    "path":"objects/obj_test_player_1/obj_test_player_1.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"test_sprite_2",
-    "path":"sprites/test_sprite_2/test_sprite_2.yy",
+    "name":"spr_player2_down",
+    "path":"sprites/spr_player2_down/spr_player2_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
