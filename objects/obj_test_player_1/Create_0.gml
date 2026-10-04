@@ -12,6 +12,5 @@ sprite[DOWN] = spr_player1_down;
 
 face = DOWN;
 
-// whether the player is active
+sm = new State_Machine();
 
-is_active = 1;
